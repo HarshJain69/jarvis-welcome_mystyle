@@ -8,12 +8,12 @@ clear
 echo -e "Created By \e[5mAmshenShanu"
 echo "----------------------------" | lolcat
 echo "
-o      o        8
-8      8        8
-8      8 .oPYo. 8 .oPYo. .oPYo. ooYoYo. .oPYo.
-8  db  8 8oooo8 8 8      8    8 8' 8  8 8oooo8
- b.PY.d' 8.     8 8    . 8    8 8  8  8 8.
-  8  8'   Yooo  8  YooP   YooP  8  8  8  Yooo " | lolcat
+o      o        7
+7      7        7
+7      7 .kuro. 7 .kuro. .kuro. kuro. .kuro.
+7  db  7 7oooo7 7 7      8    7 7' 7  7 8oooo8
+ 7.77.7'.     7 7    . 8    7 7  7  7 7.
+  7  7'   Yooo  7  Kuro   Kuro  7  7  7  Yooo " | lolcat
 echo ""
   
 date | lolcat
